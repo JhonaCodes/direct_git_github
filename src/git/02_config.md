@@ -8,3 +8,5 @@
 > Te muestra los datos globales agregados, como alias, nombre, correo, etc.
 > Para modificar algo dentro de esta ventana solo presiona la techa `a`.
 
+## git config --global init.defaultBranch "Nombre de la rama por defail"
+> Lo usamos para cambair el nombre principal  de nuestra rama principal
